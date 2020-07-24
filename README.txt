@@ -8,3 +8,7 @@ Retrosynthesis Prediction with Conditional Graph Logic Network
 Evaluating Logical Generalization in Graph Neural Networks
 Markov logic networks
 Jointly Embedding Knowledge Graphs and Logical Rules
+------------------------------------------------------------------------------------
+Harnessing Deep Neural Networks with Logic Rules
+NEURAL LOGIC MACHINES
+LEARN TO EXPLAIN EFFICIENTLY VIA NEURAL LOGIC INDUCTIVE LEARNING
